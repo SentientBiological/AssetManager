@@ -4,6 +4,6 @@ class ApplicationController < ActionController::Base
   protect_from_forgery with: :exception
 
   def index
-    render text: 'Well hello there nick'
+    render text: 'Welcome to Asset Manager'
   end
 end
