@@ -48,8 +48,8 @@ test:
   encoding: unicode
   database: AssetManager_test
   pool: 5
-  username: postgres
-  password: hello1
+  username: johnstor
+  password: Cd0b89C2
 
 production:
   adapter: postgresql

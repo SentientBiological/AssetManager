@@ -18,8 +18,8 @@
     <data-source source="LOCAL" name="Rails AssetManager: test" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="81a95708-7626-4b97-af2d-6899891deaec">
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql:AssetManager_test</jdbc-url>
-      <user-name>postgres</user-name>
-      <user-password>dfc2dfcfdfc6dfc6dfc5df9b</user-password>
+      <user-name>johnstor</user-name>
+      <user-password>dfe9dfcedf9adfc8df92df93dfe9df98</user-password>
       <libraries>
         <library>
           <url>file://$USER_HOME$/.RubyMine50/config/jdbc-drivers/postgresql-driver-license.txt</url>

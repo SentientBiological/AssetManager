@@ -6,9 +6,9 @@ AssetManager::Application.routes.draw do
   # See how all your routes lay out with "rake routes".
 
   AssetManager::Application.routes.draw do
-  get "static_pages/home"
-  get "static_pages/help"
-  get "static_pages/about"
+    get "static_pages/home"
+    get "static_pages/help"
+    get "static_pages/about"
     root 'application#index'
   end
 
